@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "template"
+name = "kv-save-HashMap"
 version = "0.1.0"
