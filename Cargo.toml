@@ -1,5 +1,5 @@
 [workspace]
-members = ["kv-save-HashMap"]
+members = ["hash_map"]
 resolver = "2"
 
 [work.dependencies]
