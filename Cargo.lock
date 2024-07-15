@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "as-type"
+version = "0.1.0"
+
+[[package]]
 name = "hash-map"
 version = "0.1.0"
