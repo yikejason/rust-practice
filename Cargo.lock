@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "other-convert"
 version = "0.1.0"
+
+[[package]]
+name = "panic"
+version = "0.1.0"

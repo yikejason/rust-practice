@@ -1,5 +1,5 @@
 [workspace]
-members = ["hash_map", "as_type", "from_into", "other_convert"]
+members = ["hash_map", "as_type", "from_into", "other_convert", "panic"]
 resolver = "2"
 
 [work.dependencies]
